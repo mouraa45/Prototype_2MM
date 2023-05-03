@@ -827,7 +827,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Food_Cookie_01
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: -699726583930455567, guid: 92c617bf05b6fa748b380435c5572807, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 92c617bf05b6fa748b380435c5572807, type: 3}
 --- !u!1001 &4134801583140630362
 PrefabInstance:
@@ -884,7 +885,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animal_Chick
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: -5257287580298918583, guid: 6ac9ddeb69b2d4b4298d17591e033db5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 6ac9ddeb69b2d4b4298d17591e033db5, type: 3}
 --- !u!1001 &5239923358033091941
 PrefabInstance:
@@ -941,7 +943,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animal_Horse_Black
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3877935792180482012, guid: 5faa1296e4a753d4c886bcbe34d56ad5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 5faa1296e4a753d4c886bcbe34d56ad5, type: 3}
 --- !u!1001 &6289526887712516686
 PrefabInstance:
@@ -998,5 +1001,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: -1117024421092743498, guid: 8ffc2aa4bc8b64a4d9b1ba11028c94b8, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 8ffc2aa4bc8b64a4d9b1ba11028c94b8, type: 3}
