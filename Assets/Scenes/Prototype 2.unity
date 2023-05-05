@@ -696,7 +696,7 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -747,9 +747,12 @@ MonoBehaviour:
   - {fileID: 4134801582787481409, guid: 6ac9ddeb69b2d4b4298d17591e033db5, type: 3}
   - {fileID: 6289526889643520885, guid: 8ffc2aa4bc8b64a4d9b1ba11028c94b8, type: 3}
   - {fileID: 5239923357568023164, guid: 5faa1296e4a753d4c886bcbe34d56ad5, type: 3}
-  sideSpawnMinZ: 3
-  sideSpawnMaxZ: 15
-  sideSpawnX: 20
+  spawnRangeX: 20
+  spawnPosZ: 20
+  startDelay: 2
+  spawnInterval: 3
+  sideSpawnZMin: 15
+  sideSpawnZMax: 20
 --- !u!4 &1570102421
 Transform:
   m_ObjectHideFlags: 0
