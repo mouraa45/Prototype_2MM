@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 3877935792180482012}
   m_Layer: 0
   m_Name: Animal_Horse_Black
-  m_TagString: animal
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
